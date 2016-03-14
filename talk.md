@@ -5,7 +5,7 @@ build-lists: true
 
 ---
 
-# HI!
+# [fit] HI!
 
 ---
 
@@ -21,7 +21,7 @@ I'm Italian 🇮🇹
 
 ---
 
-# [fit] MAMMA MIA
+# [fit] MAMMA BUTTA LA PASTA
 
 ---
 
@@ -40,11 +40,15 @@ We're huuuge Ruby & Ember fans!
 
 ---
 
-I'm addicted to rock climbing
+I'm addicted to rock climbing!
 
 ---
 
 ![fit](images/climbing.png)
+
+---
+
+I'm here to tell a story
 
 ---
 
@@ -54,7 +58,11 @@ far away....**
 ---
 
 I was a PhD student working on
-High Speed Networks Packet Processing
+packet filtering in High Speed Networks
+
+---
+
+I wasn't a happy PhD student
 
 ---
 
@@ -78,7 +86,7 @@ So I started studying Ruby ![inline](images/ruby-logo.png)
 
 ---
 
-But that wasn't enough, so I studied **RoR**
+But that wasn't enough, so I studied **Rails**
 
 ---
 
@@ -103,14 +111,6 @@ So I learned *jQuery*
 ---
 
 And it was **great**.
-
----
-
-Then I learned *KnockoutJS*
-
----
-
-And it was **awesome**.
 
 ---
 
@@ -146,7 +146,20 @@ And it was **mindblowing**.
 
 ---
 
-# [fit] HYPE FATIGUE
+![](images/ive.jpg)
+
+---
+
+# [fit] THE APPLE EFFECT
+
+---
+
+> When everything is revolutionary, probably nothing really is
+-- Albert Einstein
+
+---
+
+# HYPE FATIGUE
 
 ---
 
@@ -154,13 +167,25 @@ And it was **mindblowing**.
 
 ---
 
-I was pretty deep into **The Pit
-of JavaScript Disillusionment**
+I was pretty deep into
+**The Pit of JavaScript Disillusionment**
 
 ---
 
-You can imagine my reaction when
-we chose Ember as our main frontend stack
+But I had my Ruby, my OOP and my TDD.
+So everything was good!
+
+---
+
+**But one day..**
+
+---
+
+> We're going to rebuild this Rails app in Ember!
+
+---
+
+You can imagine my reaction..
 
 ---
 
@@ -172,23 +197,11 @@ we chose Ember as our main frontend stack
 
 ---
 
-# [fit] 1 minute later...
-
----
-
 *"This looks nice..."*
 
 ---
 
-# [fit] 5 minutes later...
-
----
-
-*"This looks complicated...."*
-
----
-
-# [fit] 10 minutes later...
+# [fit] 15 minutes later...
 
 ---
 
@@ -196,67 +209,68 @@ we chose Ember as our main frontend stack
 
 ---
 
-# [fit] How I learned **Ember**
+Even though I knew Rails, Ember looked like something completely different
+
+---
+
+And I wasn't a *huge* fan
+
+---
+
+> WHY DOES IT HAVE TO BE SO DIFFICULT?
+-- Me, circa 2015
+
+---
+
+> SCREW THIS, I'M GOING BACK TO RUBY
+-- Me, shortly thereafter
+
+---
+
+But I'm here, so something changed
+
+---
+
+So what changed?
+
+---
+
+# [fit] Well, I learned **Ember**
 
 ---
 
 1. Introduction to Ember.js by Gaslight
 2. Ember 101 by Adolfo Builes
-3. From Rails to Ember
-4. Balint Erdi's blog
+3. Balint Erdi's blog
 
 ---
 
-# [fit] The 3 things you need to know
+Then I built my first *serious* app
 
 ---
 
-1. Rails Controllers != Ember Controllers
-2. Nested Routes === Nested UI
-3. Promises (I'm serious)
+And it was **good**.
 
 ---
 
-# [fit] Ember is a fast moving target
+Also I found out what I didn't like
+about writing JavaScript
 
 ---
 
-# [fit] Ember is a **FAST** moving target
+It's not the syntax
 
 ---
 
-There is new version of something every day!
+It's not handling state
 
 ---
 
-1. Upgrade (ember|ember-data|ember-cli)
-2. Fix deprecations
-3. Rejoice!
+It's not handling async
 
 ---
 
-1. Upgrade (ember|ember-data|ember-cli)
-2. Everything is broken 0_0
-3. All is lost
-
----
-
-# [fit] DON'T PANIC
-
----
-
-1. Read the error
-2. Reread the error (for real)
-3. Check out the release changelog
-4. Ask on Slack (https://embercommunity.slack.com)
-
----
-
-# [fit] OH BOY THE COMMUNITY
-
----
-
-![fit](images/london-tomster.png)
+It's the **revolution at any cost**
 
 ---
 
@@ -270,7 +284,7 @@ There is new version of something every day!
 
 ---
 
-> We're going to rebuild this from scratch
+> We need to rebuild this from scratch
 
 ---
 
@@ -278,11 +292,22 @@ There is new version of something every day!
 
 ---
 
-> Oh, and it's not backwards compatible
+> But it's not gonna be backwards compatible
 
 ---
 
-# [fit] SWS
+* Perl 5 -> Perl 6
+* Python 2 -> Python 3
+* Angular 1 -> Angular 2
+
+---
+
+# Intelligent design
+
+---
+
+> Natura non facit saltus
+-- Linnaeus, 1751
 
 ---
 
@@ -294,38 +319,6 @@ There is new version of something every day!
 
 > Eventually all the good ideas will end up in Ember
 -- wycats
-
----
-
-When I was learning Ember, I was learning a piece of software.
-
----
-
-But the truth is, there are many pieces of software around.
-
----
-
-You could say: "This is my framework. There are many like it, but this one is mine."
-
----
-
-But what I found is much more than a framework
-
----
-
-It's a frame of mind.
-
----
-
-It's having a true open source process
-
----
-
-It's thinking about backwards compatibility all the time
-
----
-
-And that's more important than the software to me.
 
 ---
 
@@ -364,6 +357,48 @@ Our job is to manage complexity, not run away from it
 ---
 
 Never use simplicity as an excuse :)
+
+---
+
+When I was learning Ember,
+I was learning a piece of software.
+
+---
+
+But the truth is,
+there are many pieces of software around.
+
+---
+
+> This is my framework. There are many like it, but this one is mine.
+
+---
+
+But what I found is much more than a framework
+
+---
+
+It's a frame of **mind**.
+
+---
+
+It's having a truly **open source** process
+
+---
+
+It's thinking about backwards compatibility
+
+---
+
+And that's more important than the software to me.
+
+---
+
+# Thank you!
+
+@arkh4m
+
+engineering.alphasights.com
 
 ---
 
