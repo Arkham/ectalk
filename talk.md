@@ -217,17 +217,21 @@ And I wasn't a *huge* fan
 
 ---
 
-> WHY DOES IT HAVE TO BE SO DIFFICULT?
--- Me, circa 2015
+> Why do you have to go and make things so complicated?
+-- Avril Lavigne
 
 ---
 
-> SCREW THIS, I'M GOING BACK TO RUBY
--- Me, shortly thereafter
+# [fit] KISS
 
 ---
 
-But I'm here, so something changed
+# [fit] Keep It Simple, Stupid
+
+---
+
+> Simple is better than complex
+-- The Zen of Python
 
 ---
 
@@ -322,16 +326,7 @@ It's the **revolution at any cost**
 
 ---
 
-# [fit] KISS
 
----
-
-# [fit] Keep It Simple, Stupid
-
----
-
-> Simple is better than complex
--- The Zen of Python
 
 ---
 
