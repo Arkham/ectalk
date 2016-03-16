@@ -62,10 +62,6 @@ packet filtering in High Speed Networks
 
 ---
 
-I wasn't a happy PhD student
-
----
-
 Friend: *"Hey, wanna join our Rails shop?"*
 
 ---
@@ -98,7 +94,7 @@ But that wasn't enough, so I studied **TDD**
 
 ---
 
-And it was **good**.
+And it was **good**
 
 ---
 
@@ -110,7 +106,7 @@ So I learned *jQuery*
 
 ---
 
-And it was **great**.
+And it was **great**
 
 ---
 
@@ -118,7 +114,7 @@ Then I learned *BackboneJS*
 
 ---
 
-And it was **revolutionary**.
+And it was **amazing**
 
 ---
 
@@ -126,7 +122,7 @@ Then I learned *MarionetteJS*
 
 ---
 
-And it was **fantastic**.
+And it was **fantastic**
 
 ---
 
@@ -134,7 +130,7 @@ Then I learned *BatmanJS*
 
 ---
 
-And it was so **elegant**.
+And it was **game-changing**
 
 ---
 
@@ -142,7 +138,7 @@ Then I learned *AngularJS*
 
 ---
 
-And it was **mindblowing**.
+And it was **revolutionary**
 
 ---
 
@@ -172,7 +168,10 @@ I was pretty deep into
 
 ---
 
-But I had my Ruby, my OOP and my TDD.
+But I had my Ruby, my OOP and my TDD
+
+---
+
 So everything was good!
 
 ---
@@ -257,24 +256,63 @@ And it was **good**.
 
 ---
 
+# [fit] The Gmail Test
+
+---
+
+> You have to rebuild Gmail. How would you do it?
+
+---
+
+> But complex is better than complicated
+-- The Zen of Python
+
+---
+
+![](images/ember.png)
+
+---
+
+An ambitious application solves a **real** problem
+
+---
+
+And reality is full of complexity
+
+---
+
+Our job is to manage complexity,
+not run away from it
+
+---
+
+> Everything should be made as simple as possible, but not simpler
+-- Albert Einstein
+
+---
+
 Also I found out what I didn't like
 about writing JavaScript
 
 ---
 
-It's not the syntax
+Wasn't the syntax
 
 ---
 
-It's not handling state
+Nor handling state
 
 ---
 
-It's not handling async
+Nor handling async
 
 ---
 
-It's the **revolution at any cost**
+It was the **revolution at any cost** mentality
+
+---
+
+![](images/revolutions.png)
 
 ---
 
@@ -326,35 +364,6 @@ It's the **revolution at any cost**
 
 ---
 
-
-
----
-
-> But complex is better than complicated
--- The Zen of Python
-
----
-
-![fit](images/ember.png)
-
----
-
-An ambitious application solves a real problem
-
----
-
-Reality is full of complexity
-
----
-
-Our job is to manage complexity, not run away from it
-
----
-
-Never use simplicity as an excuse :)
-
----
-
 When I was learning Ember,
 I was learning a piece of software.
 
@@ -385,7 +394,12 @@ It's thinking about backwards compatibility
 
 ---
 
-And that's more important than the software to me.
+And to me, that's more important than the software
+
+---
+
+# [fit] Ember.js
+# [fit] Evolution at Work
 
 ---
 
