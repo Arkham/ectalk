@@ -34,7 +34,8 @@ I live in London 🇬🇧
 ---
 
 I work at **AlphaSights**
-We're huuuge Ruby & Ember fans!
+We're in London and New York
+And we're *huuuge* Ruby & Ember fans
 
 ![](images/as-fun.jpg)
 
@@ -57,8 +58,12 @@ far away....**
 
 ---
 
+*January 2011. Turin, Italy*
+
+---
+
 I was a PhD student working on
-packet filtering in High Speed Networks
+packet filtering in high speed networks
 
 ---
 
@@ -94,7 +99,11 @@ But that wasn't enough, so I studied **TDD**
 
 ---
 
-And it was **good**
+And I was **happy**
+
+---
+
+I was really enjoying myself doing what every backend Ruby developer loves to do
 
 ---
 
@@ -130,7 +139,7 @@ Then I learned *BatmanJS*
 
 ---
 
-And it was **game-changing**
+And it was very **clever**
 
 ---
 
@@ -142,11 +151,25 @@ And it was **revolutionary**
 
 ---
 
+But I still wasn't **happy**
+
+---
+
 ![](images/ive.jpg)
 
 ---
 
 # [fit] THE APPLE EFFECT
+
+---
+
+# [fit] A9. The most advanced chip ever
+# [fit] The most vivid Retina display ever
+# [fit] TouchID faster and better than ever
+# [fit] 3D Touch lets you do more than ever
+# [fit] The most powerful 4-inch phone ever
+# [fit] IOS 9 is smarter and more essential than ever
+# [fit] The 27-inch iMac is faster and more powerful than ever
 
 ---
 
@@ -216,11 +239,6 @@ And I wasn't a *huge* fan
 
 ---
 
-> Why do you have to go and make things so complicated?
--- Avril Lavigne
-
----
-
 # [fit] KISS
 
 ---
@@ -234,11 +252,21 @@ And I wasn't a *huge* fan
 
 ---
 
+> Write programs that do one thing and do it well
+-- Doug McIlroy
+
+---
+
+> Why do you have to go and make things so complicated?
+-- Avril Lavigne
+
+---
+
 So what changed?
 
 ---
 
-# [fit] Well, I learned **Ember**
+## Well, I learned **Ember**
 
 ---
 
@@ -248,11 +276,22 @@ So what changed?
 
 ---
 
-Then I built my first *serious* app
+## Then I built my first **serious** app
 
 ---
 
-And it was **good**.
+1. Ember CLI
+2. Ember Data
+3. Ember Addons
+4. Promise-aware Testing
+
+---
+
+## And it made me **happy**
+
+---
+
+So what about KISS?
 
 ---
 
@@ -260,7 +299,12 @@ And it was **good**.
 
 ---
 
-> You have to rebuild Gmail. How would you do it?
+> You have to rebuild Gmail. How do you do it?
+
+---
+
+> Simple is better than complex
+-- The Zen of Python
 
 ---
 
@@ -398,8 +442,8 @@ And to me, that's more important than the software
 
 ---
 
-# [fit] Ember.js
-# [fit] Evolution at Work
+# Ember
+## Evolution at Work
 
 ---
 
