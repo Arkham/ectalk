@@ -58,10 +58,6 @@ far away....**
 
 ---
 
-*January 2011. Turin, Italy*
-
----
-
 I was a PhD student working on
 packet filtering in high speed networks
 
@@ -173,16 +169,16 @@ But I still wasn't **happy**
 
 ---
 
-> When everything is revolutionary, probably nothing really is
--- Albert Einstein
-
----
-
 # HYPE FATIGUE
 
 ---
 
-![fit](images/hype-cycle.png)
+![](images/revolutions.png)
+
+---
+
+> When everything is revolutionary, probably nothing really is
+-- Albert Einstein
 
 ---
 
@@ -235,7 +231,8 @@ Even though I knew Rails, Ember looked like something completely different
 
 ---
 
-And I wasn't a *huge* fan
+And I wasn't a *huge* fan because
+it was doing **too many things**
 
 ---
 
@@ -262,36 +259,11 @@ And I wasn't a *huge* fan
 
 ---
 
+Now I love Ember!
+
+---
+
 So what changed?
-
----
-
-## Well, I learned **Ember**
-
----
-
-1. Introduction to Ember.js by Gaslight
-2. Ember 101 by Adolfo Builes
-3. Balint Erdi's blog
-
----
-
-## Then I built my first **serious** app
-
----
-
-1. Ember CLI
-2. Ember Data
-3. Ember Addons
-4. Promise-aware Testing
-
----
-
-## And it made me **happy**
-
----
-
-So what about KISS?
 
 ---
 
@@ -299,7 +271,7 @@ So what about KISS?
 
 ---
 
-> You have to rebuild Gmail. How do you do it?
+> You have to rebuild Gmail in Rails. How do you do it?
 
 ---
 
@@ -340,27 +312,23 @@ about writing JavaScript
 
 ---
 
-Wasn't the syntax
+It wasn't the syntax
 
 ---
 
-Nor handling state
+It wasn't handling state
 
 ---
 
-Nor handling async
+It wasn't handling async
 
 ---
 
-It was the **revolution at any cost** mentality
+But the **revolution at any cost**
 
 ---
 
 ![](images/revolutions.png)
-
----
-
-# [fit] SSS
 
 ---
 
@@ -462,3 +430,33 @@ engineering.alphasights.com
 * https://leanpub.com/ember-cli-101
 * http://fromrailstoember.com
 * http://balinterdi.com
+
+---
+
+## Well, I learned **Ember**
+
+---
+
+1. Introduction to Ember.js by Gaslight
+2. Ember 101 by Adolfo Builes
+3. Balint Erdi's blog
+
+---
+
+## Then I built my first **serious** app
+
+---
+
+1. Ember CLI
+2. Ember Data
+3. Ember Addons
+4. Promise-aware Testing
+
+---
+
+## And it made me **happy**
+
+---
+
+So what about keeping it simple?
+
