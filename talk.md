@@ -155,10 +155,6 @@ But I still wasn't **happy**
 
 ---
 
-# [fit] THE APPLE EFFECT
-
----
-
 # [fit] A9. The most advanced chip ever
 # [fit] The most vivid Retina display ever
 # [fit] TouchID faster and better than ever
@@ -203,7 +199,7 @@ So everything was good!
 
 ---
 
-You can imagine my reaction..
+Initially I wasn't *really* excited
 
 ---
 
@@ -211,11 +207,12 @@ You can imagine my reaction..
 
 ---
 
-*"Let's take a look.."*
+But then I start poking around...
 
 ---
 
-*"This looks nice..."*
+
+*"This looks nice and familiar..."*
 
 ---
 
@@ -227,7 +224,8 @@ You can imagine my reaction..
 
 ---
 
-Even though I knew Rails, Ember looked like something completely different
+Even though I thought I knew Rails and JS,
+Ember looked like something completely different
 
 ---
 
@@ -259,7 +257,15 @@ it was doing **too many things**
 
 ---
 
-Now I love Ember!
+# [fit] 2 years later...
+
+---
+
+Now I love Ember :)
+
+---
+
+# [fit] I can do **everything!**
 
 ---
 
@@ -271,7 +277,16 @@ So what changed?
 
 ---
 
-> You have to rebuild Gmail in Rails. How do you do it?
+> I have to rebuild Gmail. How would I do it?
+
+---
+
+![fit](images/gmail.png)
+
+---
+
+I couldn't figure out a way to do it
+by keeping it simple...
 
 ---
 
@@ -293,12 +308,7 @@ An ambitious application solves a **real** problem
 
 ---
 
-And reality is full of complexity
-
----
-
-Our job is to manage complexity,
-not run away from it
+And as we know, reality is full of complexity
 
 ---
 
@@ -307,8 +317,11 @@ not run away from it
 
 ---
 
-Also I found out what I didn't like
-about writing JavaScript
+So I stopped using 'simplicity' as an excuse :)
+
+---
+
+Also, I found out why I wasn't enjoying myself in JS
 
 ---
 
@@ -360,6 +373,14 @@ But the **revolution at any cost**
 
 ---
 
+> I have the perfect plan, now let's build it
+
+---
+
+![fit](images/evolution.png)
+
+---
+
 > Natura non facit saltus
 -- Linnaeus, 1751
 
@@ -387,14 +408,15 @@ there are many pieces of software around.
 ---
 
 > This is my framework. There are many like it, but this one is mine.
+-- Full Metal Jacket
 
 ---
 
-But what I found is much more than a framework
+But what I learned to love is much more than a framework
 
 ---
 
-It's a frame of **mind**.
+It's a frame of **mind**
 
 ---
 
@@ -406,57 +428,20 @@ It's thinking about backwards compatibility
 
 ---
 
-And to me, that's more important than the software
+It's embracing **continuous mutation**
+over short lived revolutions
 
 ---
 
-# Ember
-## Evolution at Work
+## Don't be a Creationist.
+## Learn to love **Ember!**
 
 ---
 
 # Thank you!
 
+ 🙇🏻
+ 
 @arkh4m
 
 engineering.alphasights.com
-
----
-
-# Bibliography
-
-* http://brewhouse.io/blog/2015/05/13/emberjs-an-antidote-to-your-hype-fatigue.html
-* https://teamgaslight.com/training/courses/14
-* https://leanpub.com/ember-cli-101
-* http://fromrailstoember.com
-* http://balinterdi.com
-
----
-
-## Well, I learned **Ember**
-
----
-
-1. Introduction to Ember.js by Gaslight
-2. Ember 101 by Adolfo Builes
-3. Balint Erdi's blog
-
----
-
-## Then I built my first **serious** app
-
----
-
-1. Ember CLI
-2. Ember Data
-3. Ember Addons
-4. Promise-aware Testing
-
----
-
-## And it made me **happy**
-
----
-
-So what about keeping it simple?
-
