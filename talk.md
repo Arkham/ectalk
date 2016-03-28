@@ -111,7 +111,7 @@ So I learned *jQuery*
 
 ---
 
-And it was **great**
+Then I learned *KnockoutJS*
 
 ---
 
@@ -119,15 +119,7 @@ Then I learned *BackboneJS*
 
 ---
 
-And it was **amazing**
-
----
-
 Then I learned *MarionetteJS*
-
----
-
-And it was **fantastic**
 
 ---
 
@@ -135,15 +127,7 @@ Then I learned *BatmanJS*
 
 ---
 
-And it was very **clever**
-
----
-
 Then I learned *AngularJS*
-
----
-
-And it was **revolutionary**
 
 ---
 
@@ -162,14 +146,6 @@ But I still wasn't **happy**
 # [fit] The most powerful 4-inch phone ever
 # [fit] IOS 9 is smarter and more essential than ever
 # [fit] The 27-inch iMac is faster and more powerful than ever
-
----
-
-# HYPE FATIGUE
-
----
-
-![](images/revolutions.png)
 
 ---
 
@@ -337,7 +313,11 @@ It wasn't handling async
 
 ---
 
-But the **revolution at any cost**
+But the **revolution at any cost** mindset
+
+---
+
+# HYPE FATIGUE
 
 ---
 
@@ -412,7 +392,8 @@ there are many pieces of software around.
 
 ---
 
-But what I learned to love is much more than a framework
+But what I learned to love
+is much more than a frame of work
 
 ---
 
@@ -424,7 +405,7 @@ It's having a truly **open source** process
 
 ---
 
-It's thinking about backwards compatibility
+It's valuing backwards compatibility
 
 ---
 
@@ -433,7 +414,7 @@ over short lived revolutions
 
 ---
 
-## Don't be a Creationist.
+## Don't be a JS Creationist
 ## Learn to love **Ember!**
 
 ---
