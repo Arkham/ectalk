@@ -1,5 +1,3 @@
-build-lists: true
-
 # [fit] How I learned
 # [fit] to **<3** Ember
 
@@ -46,6 +44,10 @@ I'm addicted to rock climbing!
 ---
 
 ![fit](images/climbing.png)
+
+---
+
+# [fit] BUSINESS TIME
 
 ---
 
@@ -344,7 +346,13 @@ But the **revolution at any cost** mindset
 ---
 
 * Perl 5 -> Perl 6
+
+---
+
 * Python 2 -> Python 3
+
+---
+
 * Angular 1 -> Angular 2
 
 ---
@@ -406,6 +414,10 @@ It's having a truly **open source** process
 ---
 
 It's valuing backwards compatibility
+
+---
+
+It's building inclusive communities
 
 ---
 
